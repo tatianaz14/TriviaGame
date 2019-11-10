@@ -1,0 +1,48 @@
+body{
+   background-image: url("https://images.unsplash.com/photo-1487147264018-f937fba0c817?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80");
+  height:20%;
+background-size: cover;
+background-origin: inherit;
+
+  }
+.container {
+    height: 600px;
+    width: 450px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 17px -1px white;
+    margin: 100px auto;
+    padding: 55px 40px;
+    position: relative;
+    background-color:#EC5D88;
+    background-position-x: 50px;
+
+}
+#game {
+   
+   color:white;
+}
+#time {
+    color:pink;
+}
+h1 {color:lightcoral;
+letter-spacing: 2px;
+font-size: 28px;}
+.btn-primary {
+    background-color:white;
+    color:pink;
+    border-color: #D93F9B;
+    
+}
+
+.btn-primary:hover{
+    background-color:orange;
+    color:pink;
+    border-color: #D93F9B;
+}
+.jumbotron {background-color: white;
+background-position: center;
+
+
+
+
+}
