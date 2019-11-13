@@ -1,5 +1,5 @@
 body{
-   background-image: url("https://images.unsplash.com/photo-1487147264018-f937fba0c817?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80");
+   background-color:white;
   height:20%;
 background-size: cover;
 background-origin: inherit;
@@ -13,7 +13,7 @@ background-origin: inherit;
     margin: 100px auto;
     padding: 55px 40px;
     position: relative;
-    background-color:#EC5D88;
+    background-color:black;
     background-position-x: 50px;
 
 }
