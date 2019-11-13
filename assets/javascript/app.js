@@ -160,7 +160,7 @@ function loadImage(status) {
         $('#game').html(`
             <p class="image">Correct!</p>
             <p class="image">The correct answer is <b>${correctAnswer}</b></p>
-            <iframe src="https://media.giphy.com/media/13fhBmPSB3pEn6/source.gif" width="300" height="300" frameBorder="0"></iframe><p></p>
+            <iframe src="https://media.giphy.com/media/yH44qh8DpNyfK/giphy.gif" width="300" height="300" frameBorder="0"></iframe><p></p>
           
         `);
     } else {
